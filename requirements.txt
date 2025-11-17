@@ -49,3 +49,4 @@ tzdata==2025.2
 torch>=2.0.0
 torchvision>=0.15.0
 wcwidth==0.2.13
+opencv-python
